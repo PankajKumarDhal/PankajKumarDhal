@@ -34,4 +34,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajkumardhal&show_icons=true&locale=en" alt="pankajkumardhal" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajkumardhal&show_icons=true&locale=en" alt="pankajkumardhal" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajkumardhal&" alt="pankajkumardhal" /></p>
